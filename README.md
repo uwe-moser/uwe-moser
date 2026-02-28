@@ -1,4 +1,4 @@
-# Dr. Uwe Dominik Moser 👋
+# Dr. Uwe Moser 👋
 
 **Senior AI Engineer & Data Scientist @ BMW Group | PhD in Engineering**
 
